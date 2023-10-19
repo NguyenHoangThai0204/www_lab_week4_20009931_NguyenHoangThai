@@ -5,6 +5,10 @@ public class StudentObject {
     private String stuName;
     private long stuId;
 
+    public StudentObject() {
+
+    }
+
     public ClassObject getaClass() {
         return aClass;
     }

@@ -11,9 +11,11 @@ public class Main {
 //        ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("teo.xml");
 //        Student student = ctx.getBean("t2", Student.class);
 //        System.out.println(student);
-        ApplicationContext context = new ClassPathXmlApplicationContext("objectInjection.xml");
-        StudentObject student_ = context.getBean("st1",StudentObject.class);
-        System.out.println(student_);
-        System.out.println("Lớp: "+ student_.getaClass().getClassName());
+
+//  println Object
+//        ApplicationContext context = new ClassPathXmlApplicationContext("objectInjection.xml");
+//        StudentObject student_ = context.getBean("st1",StudentObject.class);
+//        System.out.println(student_);
+
     }
 }
