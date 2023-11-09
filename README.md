@@ -10,3 +10,8 @@
  
 ![image](https://github.com/NguyenHoangThai0204/www_lab_week4_20009931_NguyenHoangThai/assets/98085097/dbcfff33-618a-4c58-800e-bb7b0cde045a)
  
+ ![image](https://github.com/NguyenHoangThai0204/www_lab_week4_20009931_NguyenHoangThai/assets/98085097/6297e2f7-0a07-4a2e-8c4a-d2c12485501d)
+ 
+ ![image](https://github.com/NguyenHoangThai0204/www_lab_week4_20009931_NguyenHoangThai/assets/98085097/6be835d8-cd73-46ec-8481-5ebeac1ce4cb)
+ 
+ ![image](https://github.com/NguyenHoangThai0204/www_lab_week4_20009931_NguyenHoangThai/assets/98085097/dafc0a43-02b6-4621-b0cd-5369feae6007)
