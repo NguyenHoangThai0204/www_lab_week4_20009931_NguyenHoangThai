@@ -1,4 +1,4 @@
-![image](https://github.com/NguyenHoangThai0204/www_lab_week4_20009931_NguyenHoangThai/assets/98085097/ce17c971-4861-41fc-953e-5e10efb42e39) # www_lab_week4_20009931_NguyenHoangThai 
+# www_lab_week4_20009931_NguyenHoangThai 
  
  Full name: Nguyen Hoang Thai 
  
@@ -15,3 +15,5 @@
  ![image](https://github.com/NguyenHoangThai0204/www_lab_week4_20009931_NguyenHoangThai/assets/98085097/6be835d8-cd73-46ec-8481-5ebeac1ce4cb)
  
  ![image](https://github.com/NguyenHoangThai0204/www_lab_week4_20009931_NguyenHoangThai/assets/98085097/dafc0a43-02b6-4621-b0cd-5369feae6007)
+
+![image](https://github.com/NguyenHoangThai0204/www_lab_week4_20009931_NguyenHoangThai/assets/98085097/ce17c971-4861-41fc-953e-5e10efb42e39) 
